@@ -1,2 +1,2 @@
-# A-Star-Labirynth_Solving
+# A-Star-Labyrinth-Solving
 Repo for AI1 Class at UFSC
